@@ -1,9 +1,20 @@
-![alt text](https://github.com/harih1290/HACKERRANK-PYTHON3-Problem-Solving/blob/master/68747470733a2f2f69302e77702e636f6d2f6772616473696e67616d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30352f3835363737315f3636383232343035333139373834315f313934333639393030395f6f2e706e67.png)
-![alt text](http://withinloop.coolpage.biz/)
+![alt img](https://github.com/harih1290/HACKERRANK-PYTHON3-Problem-Solving/blob/master/68747470733a2f2f69302e77702e636f6d2f6772616473696e67616d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30352f3835363737315f3636383232343035333139373834315f313934333639393030395f6f2e706e67.png)
+                     ![alt img](http://withinloop.coolpage.biz/img/imgs.jpg)
+
+
+[![](https://img.shields.io/badge/author-@Hariharan-blue.svg?style=flat)](http://withinloop.coolpage.biz)
 # HACKERRANK-PYTHON3-Problem-Solving
 Solutions to Python Challenges from HackerRank Code for the following subdomains lie in the root directory:
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/harih1290/HACKERRANK-PYTHON3-Problem-Solving/blob/master/Screenshot%20(33).png">
+    </td>
+    <td>
+      <img src="https://github.com/harih1290/HACKERRANK-PYTHON3-Problem-Solving/blob/master/Screenshot%20(35).png">
+    </td>
+  </tr>
+</table>
         1.Fair Rations
         2.HackerRank-A Very Big Sum
         3.HackerRank-Apple and Orange
