@@ -1,8 +1,5 @@
 ![alt text](https://github.com/harih1290/HACKERRANK-PYTHON3-Problem-Solving/blob/master/68747470733a2f2f69302e77702e636f6d2f6772616473696e67616d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30352f3835363737315f3636383232343035333139373834315f313934333639393030395f6f2e706e67.png)
-devtools::install_github("ijlyttle/vembedr")
-library("htmltools")
-library("vembedr")
-embed_url("https://www.youtube.com/watch?v=uV4UpCq2azs")
+![alt text]()
 # HACKERRANK-PYTHON3-Problem-Solving
 Solutions to Python Challenges from HackerRank Code for the following subdomains lie in the root directory:
 
