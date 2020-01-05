@@ -12,8 +12,11 @@
 
 
 [![](https://img.shields.io/badge/author-@Hariharan-blue.svg?style=flat)](http://withinloop.coolpage.biz)
+
 # HACKERRANK-PYTHON3-Problem-Solving
+
 Solutions to Python Challenges from HackerRank Code for the following subdomains lie in the root directory:
+
 <table>
   <tr>
     <td>
@@ -24,6 +27,8 @@ Solutions to Python Challenges from HackerRank Code for the following subdomains
     </td>
   </tr>
 </table>
+
+
         1.Fair Rations
         2.HackerRank-A Very Big Sum
         3.HackerRank-Apple and Orange
